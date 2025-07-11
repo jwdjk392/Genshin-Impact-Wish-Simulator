@@ -1,0 +1,508 @@
+{
+	"a-thousand-blazing-suns": "타오르는 천 개의 태양",
+	"a-thousand-floating-dreams": "천 개의 새벽이 부르는 노래",
+	"absolution": "죽음의 계약",
+	"akuoumaru": "아쿠오마루",
+	"alley-hunter": "뒷골목 사냥꾼",
+	"amos-bow": "아모스의 활",
+	"astral-vultures-crimson-plumage": "붉은 깃 별독수리",
+	"aqua-simulacra": "약수",
+	"aquila-favonia": "매의 검",
+	"azurelight": "창백한 섬광",
+	"beacon-of-the-reed-sea": "모래바다 파수",
+	"black-tassel": "흑술창",
+	"bloodtained-greatsword": "Bloodtained Greatsword",
+	"calamity-queller": "Calamity Queller",
+	"cashflow-supervision": "Cashflow Supervision",
+	"cool-steel": "Cool Steel",
+	"cranes-echoing-call": "Crane's Echoing Call",
+	"crimson_moon_s-semblance": "Crimson Moon's Semblance",
+	"debate-club": "Debate Club",
+	"dragon_s-bane": "Dragon's Bane",
+	"elegy-for-the-end": "Elegy for the End",
+	"emerald-orb": "Emerald Orb",
+	"engulfing-lightning": "Engulfing Lightning",
+	"everlasting-moonglow": "Everlasting Moonglow",
+	"eye-of-perception": "Eye of Perception",
+	"fang-of-the-mountain-king": "Fang of The Mountain King",
+	"favonius-codex": "Favonius Codex",
+	"favonius-greatsword": "Favonius Greatsword",
+	"favonius-lance": "Favonius Lance",
+	"favonius-sword": "Favonius Sword",
+	"favonius-warbow": "Favonius Warbow",
+	"ferrous-shadow": "Ferrous Shadow",
+	"flower-wreathed-feathers": "Flower-Wreathed Feathers",
+	"freedom-sworn": "Freedom-Sworn",
+	"fruitful-hook": "Fruitful Hook",
+	"haran-geppaku-futsu": "Haran Geppaku Futsu",
+	"harbinger-of-dawn": "Harbinger of Dawn",
+	"hunter_s-path": "Hunter's Path",
+	"jadefall-splendor": "Jadefall's Splendor",
+	"kagura_s-verity": "Kagura's Verity",
+	"key-of-khaj-nisut": "Key of Khaj-Nisut",
+	"light-of-foliar-incision": "Light of Foliar Incision",
+	"lion_s-roar": "Lion's Roar",
+	"lithic-blade": "Lithic Blade",
+	"lithic-spear": "Lithic Spear",
+	"lost-prayer-to-the-sacred-winds": "Lost Prayer to the Sacred Winds",
+	"lumidouce-elegy": "Lumidouce Elegy",
+	"magic-guide": "Magic Guide",
+	"makhaira-aquamarine": "Makhaira Aquamarine",
+	"memory-of-dust": "Memory of Dust",
+	"mistsplitter-reforged": "Mistsplitter Reforged",
+	"mitternachts-waltz": "Mitternachts Waltz",
+	"mountain-bracing-bolt": "Mountain-Bracing Bolt",
+	"mouun_s-moon": "Mouun's Moon",
+	"peak-patrol-song": "Peak Patrol Song",
+	"polar-star": "Polar Star",
+	"portable-power-saw": "Portable Power Saw",
+	"primordial-jade-cutter": "Primordial Jade Cutter",
+	"primordial-jade-winged-spear": "Primordial Jade Winged-Spear",
+	"prospector-drill": "Prospector's Drill",
+	"rainslasher": "Rainslasher",
+	"range-gauge": "Range Gauge",
+	"raven-bow": "Raven Bow",
+	"redhorn-stonethresher": "Redhorn Stonethresher",
+	"rust": "Rust",
+	"sacrificial-bow": "Sacrificial Bow",
+	"sacrificial-fragments": "Sacrificial Fragments",
+	"sacrificial-greatsword": "Sacrificial Greatsword",
+	"sacrificial-sword": "Sacrificial Sword",
+	"sharpshooter_s-oath": "Sharpshooter's Oath",
+	"silvershower-heartstrings": "Silvershower Heartstrings",
+	"skyrider-sword": "Skyrider Sword",
+	"skyward-atlas": "Skyward Atlas",
+	"skyward-blade": "Skyward Blade",
+	"skyward-harp": "Skyward Harp",
+	"skyward-pride": "Skyward Pride",
+	"skyward-spine": "Skyward Spine",
+	"slingshot": "Slingshot",
+	"song-of-broken-pines": "Song of Broken Pines",
+	"splendor-of-tranquil-waters": "Splendor of Tranquil Waters",
+	"staff-of-homa": "Staff of Homa",
+	"staff-of-the-scarlet-sands": "Staff of the Scarlet Sands",
+	"starcallers-watch": "Starcaller's Watch",
+	"sturdy-bone": "Sturdy Bone",
+	"summit-shaper": "Summit Shaper",
+	"sunny-morning-sleep-in": "Sunny Morning Sleep In",
+	"surfs-up": "Surf's Up",
+	"symphonist-of-scents": "Symphonist of Scents",
+	"the-alley-flash": "The Alley Flash",
+	"the-bell": "The Bell",
+	"the-dockhands-assistant": "The Dockhand's Assistant",
+	"the-first-great-magic": "The First Great Magic",
+	"the-flute": "The Flute",
+	"the-stringless": "The Stringless",
+	"the-unforged": "The Unforged",
+	"the-widsith": "The Widsith",
+	"thrilling-tales-of-dragon-slayers": "Thrilling Tales of Dragon Slayers",
+	"thundering-pulse": "Thundering Pulse",
+	"tome-of-the-eternal-flow": "Tome of the Eternal Flow",
+	"tulaytullah_s-remembrance": "Tulaytullah's Remembrance",
+	"uraku-misugiri": "Uraku Misugiri",
+	"verdict": "Verdict",
+	"vivid-notions": "Vivid Notions",
+	"vortex-vanquisher": "Vortex Vanquisher",
+	"wavebreaker_s-fin": "Wavebreaker's Fin",
+	"wandering-evenstar": "Wandering Evenstar",
+	"waveriding-whirl": "Waveriding Whirl",
+	"wine-and-song": "Wine and Song",
+	"wolf_s-gravestone": "Wolf's Gravestone",
+	"xiphos-moonlight": "Xiphos' Moonlight",
+	"albedo": {
+		"name": "알베도",
+		"title": "백악의 아이"
+	},
+	"alhaitham": {
+		"name": "알하이탐",
+		"title": "충고와 직언"
+	},
+	"arlecchino": {
+		"name": "아를레키노",
+		"title": "어둠 속 재액의 달"
+	},
+	"amber": {
+		"name": "앰버",
+		"title": "비행 챔피언"
+	},
+	"arataki-itto": {
+		"name": "아라타키 이토",
+		"title": "하나미자카 쾌걸"
+	},
+	"baizhu": {
+		"name": "백출",
+		"title": "양생의 도"
+	},
+	"barbara": {
+		"name": "바바라",
+		"title": "빛나는 아이돌"
+	},
+	"beidou": {
+		"name": "북두",
+		"title": "무관의 용왕"
+	},
+	"bennett": {
+		"name": "베넷",
+		"title": "운명의 시금석"
+	},
+	"candace": {
+		"name": "캔디스",
+		"title": "수면 위 금빛 결의"
+	},
+	"charlotte": {
+		"name": "샤를로트",
+		"title": "진실을 쫓는 렌즈"
+	},
+	"chasca": {
+		"name": "차스카",
+		"title": "하늘을 누비는 중재자"
+	},
+	"chevreuse": {
+		"name": "슈브르즈",
+		"title": "엄정한 법의 집행자"
+	},
+	"chongyun": {
+		"name": "중운",
+		"title": "얼어붙은 열정"
+	},
+	"citlali": {
+		"name": "시틀라리",
+		"title": "흰별을 품은 흑요석"
+	},
+	"clorinde": {
+		"name": "클로린드",
+		"title": "그림자를 밝히는 사냥꾼"
+	},
+	"chiori": {
+		"name": "치오리",
+		"title": "뇌명의 재단사"
+	},
+	"collei": {
+		"name": "콜레이",
+		"title": "다시 움튼 새싹"
+	},
+	"cyno": {
+		"name": "사이노",
+		"title": "비밀 심판"
+	},
+	"dahlia": {
+		"name": "달리아",
+		"title": "찬송의 기도"
+	},
+	"dehya": {
+		"name": "데히야",
+		"title": "화염 갈기의 사자"
+	},
+	"diluc": {
+		"name": "다이루크",
+		"title": "새벽의 어둠"
+	},
+	"diona": {
+		"name": "디오나",
+		"title": "캐츠라인 칵테일"
+	},
+	"dori": {
+		"name": "도리",
+		"title": "꿈의 정원에 감춰진 보물"
+	},
+	"emilie": {
+		"name": "에밀리",
+		"title": "천 갈래 향의 자취"
+	},
+	"escoffier": {
+		"name": "에스코피에",
+		"title": "화려한 맛의 화음"
+	},
+	"eula": {
+		"name": "유라",
+		"title": "물보라의 춤"
+	},
+	"faruzan": {
+		"name": "파루잔",
+		"title": "수수께기의 장치학자"
+	},
+	"fischl": {
+		"name": "피슬",
+		"title": "단죄의 황녀!!"
+	},
+	"freminet": {
+		"name": "프레미네",
+		"title": "심해에 잠긴 아득한 꿈"
+	},
+	"furina": {
+		"name": "푸라니",
+		"title": "멈추지 않는 독무"
+	},
+	"gaming": {
+		"name": "가명",
+		"title": "고개를 치켜든 산예"
+	},
+	"ganyu": {
+		"name": "감우",
+		"title": "리월의 수호자"
+	},
+	"gorou": {
+		"name": "고로",
+		"title": "견족의 전사"
+	},
+	"hu-tao": {
+		"name": "호두",
+		"title": "눈 그친 뒤의 매화향"
+	},
+	"iansan": {
+		"name": "얀사",
+		"title": "불굴의 용암"
+	},
+	"ifa": {
+		"name": "이파",
+		"title": "생명을 잇는 바람"
+	},
+	"jean": {
+		"name": "진",
+		"title": "민들레 기사"
+	},
+	"kachina": {
+		"name": "카치나",
+		"title": "순수한 금빛 원석"
+	},
+	"kaedehara-kazuha": {
+		"name": "카에데하라 카즈하",
+		"title": "파도를 쫓는 단풍"
+	},
+	"kaeya": {
+		"name": "케이아",
+		"title": "한풍의 검사"
+	},
+	"kamisato-ayaka": {
+		"name": "카미사토 아야카",
+		"title": "눈꽃의 백로"
+	},
+	"kamisato-ayato": {
+		"name": "카미사토 아야토",
+		"title": "잎을 수호하는 반석"
+	},
+	"kaveh": {
+		"name": "카베",
+		"title": "천공의 거울"
+	},
+	"keqing": {
+		"name": "각청",
+		"title": "질뢰쾌우"
+	},
+	"kinich": {
+		"name": "키니치",
+		"title": "회고의 불 사냥꾼"
+	},
+	"kirara": {
+		"name": "키라라",
+		"title": "지붕을 누비는 고양이"
+	},
+	"klee": {
+		"name": "클레",
+		"title": "도망치는 태양"
+	},
+	"kujou-sara": {
+		"name": "쿠죠 사라",
+		"title": "검은 깃의 효시"
+	},
+	"kuki-shinobu": {
+		"name": "쿠키 시노부",
+		"title": "번뇌의 제거자"
+	},
+	"lan-yan": {
+		"name": "남연",
+		"title": "옥으로 엮은 봄"
+	},
+	"layla": {
+		"name": "레일라",
+		"title": "Fantastical Evening Star"
+	},
+	"lisa": {
+		"name": "리사",
+		"title": "Knight of Favonius Librarian"
+	},
+	"lynette": {
+		"name": "리넷",
+		"title": "Elegance in the Shadows"
+	},
+	"lyney": {
+		"name": "리니",
+		"title": "Spectacle of Phantasmagoria"
+	},
+	"mavuika": {
+		"name": "마비카",
+		"title": "Night-Igniting Flame"
+	},
+	"mika": {
+		"name": "미카",
+		"title": "Coordinates of Clear Frost"
+	},
+	"mona": {
+		"name": "모나",
+		"title": "별하늘의 물거울"
+	},
+	"mualani": {
+		"name": "말라니",
+		"title": "Splish-Splash Wavechaser"
+	},
+	"nahida": {
+		"name": "나히다",
+		"title": "Physic of Purity"
+	},
+	"navia": {
+		"name": "나비아",
+		"title": "Helm of the Radiant Rose"
+	},
+	"neuvillette": {
+		"name": "느비예트",
+		"title": "훈시의 파도 소리"
+	},
+	"nilou": {
+		"name": "닐루",
+		"title": "Dance of Lotuslight"
+	},
+	"ningguang": {
+		"name": "응광",
+		"title": "Eclipsing Star"
+	},
+	"noelle": {
+		"name": "노엘",
+		"title": "수여받지 못한 꽃"
+	},
+	"ororon": {
+		"name": "올로룬",
+		"title": "깊은 어둠의 연기"
+	},
+	"qiqi": {
+		"name": "치치",
+		"title": "차가운 환혼의 밤"
+	},
+	"raiden-shogun": {
+		"name": "라이덴 쇼군",
+		"title": "Plane of Euthymia"
+	},
+	"razor": {
+		"name": "레이저",
+		"title": "Wolf Boy"
+	},
+	"rosaria": {
+		"name": "로사리아",
+		"title": "Thorny Benevolence"
+	},
+	"sangonomiya-kokomi": {
+		"name": "산고노미야 코코미",
+		"title": "Pearl of Wisdom"
+	},
+	"sayu": {
+		"name": "사유",
+		"title": "Mujina Ninja"
+	},
+	"sethos": {
+		"name": "세토스",
+		"title": "Wisdom's Measure"
+	},
+	"shenhe": {
+		"name": "신학",
+		"title": "고독한 액신"
+	},
+	"shikanoin-heizou": {
+		"name": "시카노인 헤이조",
+		"title": "Analytical Harmoni"
+	},
+	"sigewinne": {
+		"name": "시그윈",
+		"title": "Wondrous Dragonheir"
+	},
+	"skirk": {
+		"name": "스커크",
+		"title": "허계의 별"
+	},
+	"sucrose": {
+		"name": "설탕",
+		"title": "Harmless Sweetie"
+	},
+	"tartaglia": {
+		"name": "타르탈리아",
+		"title": "귀공자"
+	},
+	"thoma": {
+		"name": "토마",
+		"title": "Protector From Afar"
+	},
+	"tighnari": {
+		"name": "타이나리",
+		"title": "Verdant Strider"
+	},
+	"varesa": {
+		"name": "바레사",
+		"title": "부드러운 괴력"
+	},
+	"venti": {
+		"name": "벤티",
+		"title": "바람의 시인"
+	},
+	"wanderer": {
+		"name": "방랑자",
+		"title": "기나긴 방황"
+	},
+	"wriothesley": {
+		"name": "라이오슬리",
+		"title": "고요한 죄의 밀사"
+	},
+	"xiangling": {
+		"name": "향릉",
+		"title": "만민백미"
+	},
+	"xianyun": {
+		"name": "한운",
+		"title": "소식을 전하는 선학"
+	},
+	"xiao": {
+		"name": "소",
+		"title": "Vigilant Yaksha"
+	},
+	"xilonen": {
+		"name": "실로닌",
+		"title": "Ardent Flames Forge the Soul"
+	},
+	"xingqiu": {
+		"name": "행추",
+		"title": "Juvenile Galant"
+	},
+	"xinyan": {
+		"name": "신염",
+		"title": "폭열 멜로디"
+	},
+	"yae-miko": {
+		"name": "야에 미코",
+		"title": "속세를 비웃는 백 가지 자태"
+	},
+	"yanfei": {
+		"name": "연비",
+		"title": "순수한 지혜"
+	},
+	"yaoyao": {
+		"name": "요요",
+		"title": "영롱한 선인의 꽃망울"
+	},
+	"yelan": {
+		"name": "야란",
+		"title": "유곡에 피어난 난초"
+	},
+	"yoimiya": {
+		"name": "요이미야",
+		"title": "유염화무"
+	},
+	"yumemizuki-mizuki": {
+		"name": "유메미즈키 미즈키",
+		"title": "아름답게 얽힌 꿈"
+	},
+	"yun-jin": {
+		"name": "운근",
+		"title": "무대를 빛내는 가인"
+	},
+	"zhongli": {
+		"name": "종려",
+		"title": "속세 한유"
+	}
+}
